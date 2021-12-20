@@ -48,3 +48,13 @@ Solo necesitas informar el puntaje del juego actual. Los conjuntos y las coincid
 - ¿Qué le dirías a tu colega si hubiera escrito este código?
 
 - ¿Qué le dirías a tu jefe sobre el valor de este trabajo de refactorización? ¿Hubo más razones para hacerlo más allá de la hora extra facturable?
+
+
+### Respondiendo preguntas
+
+1. Es agradable saber que todo esta funcionando y uno puede ir refactprizando y probando a la vez para evitar posibles errores
+2. Si los cometi, pero gracias al buen diseño de las pruebas me fue facil detectarlos y corregirlos.
+3. Me ayude con el plugin de SonarLint, el cual me ayudo bastante.
+4. Si, en algunos casos, al inicio lo genere de una manera, pero al ir avanzando descubri que es mejor usar otro metodo, al tener ya un poco refactorizado me fue mas facil re refactorizar esos pequeños cambios, al inicio me senti un poco abrumado al leer todo el codigo, pero a medida que lo leia lo entendia y ya fue mas divertido trabajarlo.
+5. Que su codigo funciona perfectamente, pero se debe seguir unas buenas practicas para que sea mas facil su mantenimiento y escalabilidad a futuro.
+6. Considero que el trabajo de factorización va a ayudar a futuro para el mantenimiento de la aplicación.
